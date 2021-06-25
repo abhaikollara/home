@@ -8,6 +8,14 @@ body {
     width: 50%;    
 }
 
-.info-table {
+#info-table {
     width: 100%;
+}
+
+#books-table{
+    width: 70%;
+}
+
+#books-table th {
+    text-align: left;
 }
