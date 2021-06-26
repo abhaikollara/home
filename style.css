@@ -3,6 +3,10 @@ body {
     background-color:cornsilk;
 }
 
+a, u {
+    text-decoration: none;
+}
+
 
 .container{
     margin: auto;
