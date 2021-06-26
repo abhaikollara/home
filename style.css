@@ -13,7 +13,13 @@ a, u {
     width: 50%;    
 }
 
-#info-table {
+@media screen and (max-width: 600px) {
+    .container {
+      width: 95%;
+    }
+  }
+
+  #info-table {
     width: 100%;
 }
 
