@@ -24,3 +24,21 @@ a, u {
 #books-table th {
     text-align: left;
 }
+
+#lists-table{
+    width: 100%;
+}
+
+#lists-table th {
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+#writings-table{
+    width: 100%;
+}
+
+#writings-table th {
+    text-align: left;
+    padding-bottom: 10px;
+}
