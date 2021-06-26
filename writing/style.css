@@ -7,3 +7,12 @@ body {
     margin: auto;
     width: 50%;    
 }
+
+#writings-table{
+    width: 100%;
+}
+
+#writings-table th {
+    text-align: left;
+    padding-bottom: 10px;
+}
